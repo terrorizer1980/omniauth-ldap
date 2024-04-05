@@ -6,5 +6,5 @@ group :development, :test do
   gem 'rspec'
   gem 'pry'
   gem 'rake'
-  gem 'rack-test'
+  gem 'rack-test', '>= 0.6.3'
 end
